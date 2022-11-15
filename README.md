@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)](https://lalitarana123456.io)
 <h1 align="center">Hi 👋, I'm Lalita Kumari</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="coding" border-radius="5" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitarana123456&label=Profile%20views&color=0e75b6&style=flat" alt="lalitarana123456" /> </p>
 
